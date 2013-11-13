@@ -1,9 +1,7 @@
 @charset "ISO-8859-1";
 #ect-footer div a {
-	font-size: 18px;
 }
 #ect-footer div a {
-	font-size: 10px;
 }#ect-footer div table tr td {
 	border-top-width: thin;
 	border-bottom-width: thin;
@@ -13,10 +11,8 @@
 	border-bottom-color: #25476C;
 }
 #ect-footer div a {
-	font-size: 12px;
 }
 #ect-footer div {
-	font-size: 12px;
 	color: #FFF;
 }
 
