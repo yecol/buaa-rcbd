@@ -154,9 +154,12 @@ a:hover {
 	font-size:1.3em;
 }
 .page_title_2{
-	line-height:3.0em;
+	line-height:2.0em;
 	font-size:1.1em;
 	color:#007EBB
+}
+.pad-2{
+	padding-left: 60px;
 }
 /*sidebar*/
 .sidebar {
@@ -359,4 +362,8 @@ a:hover {
 }
 .contact-t{
 	*display: inline;
+}
+
+.page_content_center li{
+	margin-bottom: 10px;
 }

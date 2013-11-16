@@ -5,11 +5,11 @@
 		[
 			[
 				"padding",
-				"padding"
+				"padding-left"
 			],
 			[
 				"mar",
-				"margin"
+				"margin-bottom"
 			],
 			[
 				"font",
@@ -331,19 +331,51 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "publications.html",
+			"settings":
+			{
+				"buffer_size": 2587,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-topic.html",
+			"settings":
+			{
+				"buffer_size": 2445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 6427,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 150.0,
 		"selected_items":
 		[
 			[
-				"tid",
+				"tidy",
 				"Tidy HTML"
 			],
 			[
 				"html",
+				"Tidy HTML"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"tid",
 				"Tidy HTML"
 			],
 			[
@@ -399,10 +431,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"ty",
-				"Tidy HTML"
-			],
-			[
 				"tih",
 				"Tidy HTML"
 			],
@@ -427,7 +455,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -444,6 +472,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-qbsd.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-qbd.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-dq.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-dba.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/seminars.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/members.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/jobs.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/contact.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/steering.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/scientists.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/academic.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/index.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/seminars/1.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/seminars/3.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/seminars/2.html",
 		"/D/workspace_git/baidu-charity/focus.html",
 		"/D/workspace_git/baidu-charity/union.html",
 		"/D/workspace_git/baidu-charity/index.html",
@@ -555,6 +600,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/Querying Big Social Data",
+			"&#9642; ",
+			"/Querying Big Data beyond MapReduce",
+			"&#9642;",
+			"Data%20quality%20-%20the%20other%20side%20of%20big%20data/",
+			"&#9642;",
+			"h2",
 			"title1",
 			"&",
 			"TODO",
@@ -640,6 +692,12 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"<strong>",
+			"",
+			"<strong>",
+			"",
+			"<strong>",
 			"/res",
 			"\"../res",
 			"../res/",
@@ -654,8 +712,107 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "publications.html",
+					"settings":
+					{
+						"buffer_size": 2587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2254,
+								2254
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 597.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pub-topic.html",
+					"settings":
+					{
+						"buffer_size": 2445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1655,
+								1655
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 6427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2510,
+								2510
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2664.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -676,11 +833,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.968334388854,
 			1.0
 		],
 		"rows":
@@ -723,6 +887,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 276.0,
+	"side_bar_width": 341.0,
 	"status_bar_visible": true
 }
