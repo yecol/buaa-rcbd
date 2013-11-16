@@ -332,18 +332,10 @@
 	"buffers":
 	[
 		{
-			"file": "publications.html",
+			"file": "pub-topic-dq.html",
 			"settings":
 			{
-				"buffer_size": 2587,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pub-topic.html",
-			"settings":
-			{
-				"buffer_size": 2445,
+				"buffer_size": 14778,
 				"line_ending": "Windows"
 			}
 		},
@@ -472,12 +464,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/publications.html",
+		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-qbsd.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-qbd.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-dq.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic-dba.html",
-		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
-		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/seminars.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/members.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/jobs.html",
@@ -712,23 +705,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "publications.html",
+					"file": "pub-topic-dq.html",
 					"settings":
 					{
-						"buffer_size": 2587,
+						"buffer_size": 14778,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2254,
-								2254
+								3326,
+								3326
 							]
 						],
 						"settings":
@@ -737,42 +730,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 597.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pub-topic.html",
-					"settings":
-					{
-						"buffer_size": 2445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1655,
-								1655
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 660.0,
+						"translation.y": 960.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -784,7 +746,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -844,7 +806,7 @@
 		"cols":
 		[
 			0.0,
-			0.968334388854,
+			0.797973400887,
 			1.0
 		],
 		"rows":
