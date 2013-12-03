@@ -332,10 +332,10 @@
 	"buffers":
 	[
 		{
-			"file": "pub-topic-dq.html",
+			"file": "seminars/4.html",
 			"settings":
 			{
-				"buffer_size": 14778,
+				"buffer_size": 3411,
 				"line_ending": "Windows"
 			}
 		},
@@ -464,6 +464,9 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/seminars.html",
+		"/D/workspace_git/buaa-rcbd/index.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/publications.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
@@ -710,18 +713,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "pub-topic-dq.html",
+					"file": "seminars/4.html",
 					"settings":
 					{
-						"buffer_size": 14778,
+						"buffer_size": 3411,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3326,
-								3326
+								2479,
+								2479
 							]
 						],
 						"settings":
@@ -730,11 +733,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 960.0,
+						"translation.y": 570.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
