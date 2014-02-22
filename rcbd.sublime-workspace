@@ -332,14 +332,6 @@
 	"buffers":
 	[
 		{
-			"file": "seminars/4.html",
-			"settings":
-			{
-				"buffer_size": 3411,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "css/style.css",
 			"settings":
 			{
@@ -464,9 +456,29 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/pub-year.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
+		"/D/workspace_git/buaa-rcbd/seminars/3.html",
+		"/D/workspace_git/buaa-rcbd/seminars/2.html",
+		"/D/workspace_git/buaa-rcbd/seminars/1.html",
 		"/D/workspace_git/buaa-rcbd/seminars.html",
-		"/D/workspace_git/buaa-rcbd/index.html",
+		"/D/workspace_git/buaa-rcbd/scientists.html",
+		"/D/workspace_git/buaa-rcbd/publications.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-qbsd.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
+		"/D/workspace_git/buaa-rcbd/professional.html",
+		"/D/workspace_git/buaa-rcbd/orgnization.html",
+		"/D/workspace_git/buaa-rcbd/mission.html",
+		"/D/workspace_git/buaa-rcbd/members.html",
+		"/D/workspace_git/buaa-rcbd/jobs.html",
+		"/D/workspace_git/buaa-rcbd/infrastructure.html",
+		"/D/workspace_git/buaa-rcbd/index.html",
+		"/D/workspace_git/buaa-rcbd/contact.html",
+		"/D/workspace_git/buaa-rcbd/academic.html",
+		"/D/workspace_git/buaa-rcbd/steering.html",
+		"/D/workspace_git/buaa-rcbd/seminars/4.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/publications.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
@@ -571,14 +583,7 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/assets/css/style.less",
 		"/D/Site/yecols.cn/portfolio.php",
 		"/D/Servers/xampp/xampp/htdocs/yecols.cn/portfolio.html",
-		"/D/Site/yecols.cn/portfolio.html",
-		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
-		"/D/Site/xusite/sftp-config.json",
-		"/D/Site/xusite/portfolio.html",
-		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
-		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/D/Site/xusite/assets/css/reset.css",
-		"/D/Site/xusite/assets/css/style.css"
+		"/D/Site/yecols.cn/portfolio.html"
 	],
 	"find":
 	{
@@ -586,9 +591,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
+			"D:\\workspace_git\\buaa-rcbd"
 		]
 	},
 	"find_state":
@@ -596,6 +602,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Pulications",
 			"/Querying Big Social Data",
 			"&#9642; ",
 			"/Querying Big Data beyond MapReduce",
@@ -688,6 +695,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Publications",
 			"",
 			"<strong>",
 			"",
@@ -708,40 +716,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "seminars/4.html",
-					"settings":
-					{
-						"buffer_size": 3411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2479,
-								2479
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 570.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -749,7 +725,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 0,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -760,8 +736,8 @@
 						"selection":
 						[
 							[
-								2510,
-								2510
+								1362,
+								1364
 							]
 						],
 						"settings":
@@ -773,7 +749,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2664.0,
+						"translation.y": 1479.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
