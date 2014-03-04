@@ -338,6 +338,14 @@
 				"buffer_size": 6427,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "pub-year.html",
+			"settings":
+			{
+				"buffer_size": 11415,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -456,6 +464,7 @@
 	},
 	"file_history":
 	[
+		"/D/skydrive/GoodReader/archive/我和妲己.txt",
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
 		"/D/workspace_git/buaa-rcbd/seminars/3.html",
@@ -582,8 +591,7 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/assets/css/style.css",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/assets/css/style.less",
 		"/D/Site/yecols.cn/portfolio.php",
-		"/D/Servers/xampp/xampp/htdocs/yecols.cn/portfolio.html",
-		"/D/Site/yecols.cn/portfolio.html"
+		"/D/Servers/xampp/xampp/htdocs/yecols.cn/portfolio.html"
 	],
 	"find":
 	{
@@ -591,7 +599,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 102.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"D:\\workspace_git\\buaa-rcbd"
@@ -721,7 +729,7 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -750,6 +758,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pub-year.html",
+					"settings":
+					{
+						"buffer_size": 11415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
