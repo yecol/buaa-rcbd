@@ -370,6 +370,14 @@
 				"buffer_size": 2163,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/D/workspace_git/dengt/index.html",
+			"settings":
+			{
+				"buffer_size": 12395,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -826,8 +834,8 @@
 						"selection":
 						[
 							[
-								2498,
-								2498
+								2345,
+								2345
 							]
 						],
 						"settings":
@@ -840,7 +848,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1122.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -848,7 +856,7 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -900,6 +908,36 @@
 						"settings":
 						{
 							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/workspace_git/dengt/index.html",
+					"settings":
+					{
+						"buffer_size": 12395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
