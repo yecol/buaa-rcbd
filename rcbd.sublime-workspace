@@ -332,10 +332,26 @@
 	"buffers":
 	[
 		{
-			"file": "/D/workspace_git/dengt/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12395,
+				"buffer_size": 4481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-year.html",
+			"settings":
+			{
+				"buffer_size": 12635,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-topic-dq.html",
+			"settings":
+			{
+				"buffer_size": 5112,
 				"line_ending": "Windows"
 			}
 		},
@@ -472,6 +488,8 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/seminars.html",
+		"/D/workspace_git/dengt/index.html",
 		"/C/Windows/System32/drivers/etc/hosts",
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
@@ -479,7 +497,6 @@
 		"/D/workspace_git/buaa-rcbd/seminars/3.html",
 		"/D/workspace_git/buaa-rcbd/seminars/2.html",
 		"/D/workspace_git/buaa-rcbd/seminars/1.html",
-		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/buaa-rcbd/scientists.html",
 		"/D/workspace_git/buaa-rcbd/publications.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic.html",
@@ -598,8 +615,7 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/yecol.smarty.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/assets/css/style.css",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/assets/css/style.less",
-		"/D/Site/yecols.cn/portfolio.php",
-		"/D/Servers/xampp/xampp/htdocs/yecols.cn/portfolio.html"
+		"/D/Site/yecols.cn/portfolio.php"
 	],
 	"find":
 	{
@@ -733,23 +749,54 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/workspace_git/dengt/index.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 12395,
+						"buffer_size": 4481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3291,
-								3291
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 946.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pub-year.html",
+					"settings":
+					{
+						"buffer_size": 12635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5245,
+								4939
 							]
 						],
 						"settings":
@@ -762,7 +809,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 990.0,
+						"translation.y": 1936.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pub-topic-dq.html",
+					"settings":
+					{
+						"buffer_size": 5112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1122.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -774,7 +852,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -804,7 +882,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "/D/workspace_git/yecols.cn/rebuild.html",
 					"settings":
 					{
@@ -821,6 +899,7 @@
 						],
 						"settings":
 						{
+							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
@@ -864,7 +943,7 @@
 		"cols":
 		[
 			0.0,
-			0.797973400887,
+			0.86130462318,
 			1.0
 		],
 		"rows":
