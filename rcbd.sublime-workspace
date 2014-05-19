@@ -332,26 +332,21 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"contents": "<!DOCTYPE html>\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>RCBD</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"img/Favicon.ico\">\n\n    <!-- Le styles -->\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->\n    <!--[if lt IE 9]>\n      <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n  </head>\n\n  <body>\n\n    <div class=\"bd_topline navbar-fixed-top\">\n    </div>\n    \n    <div class=\"container\">\n        <div class=\"bd_header\">\n            <div class=\"bd_logo\"></div>        \n        </div>\n        \n      <ul class=\"menu\">\n        <li class=\"lev1\"><a href=\"index.html\">Home</a></li>\n        <li class=\"lev1\"><a href=\"members.html\">Members</a>\n          <ul>\n            <li><a href=\"scientists.html\">Chief Scientists</a></li>\n            <li><a href=\"academic.html\">Academic Committee</a></li>\n            <li><a href=\"steering.html\">Steering Committee</a></li>\n          </ul>\n        </li>\n        <li class=\"lev1\"><a href=\"publications.html\">Publications</a>\n          <ul>\n            <li><a href=\"pub-year.html\">Publications by Year</a></li>\n            <li><a href=\"pub-topic.html\">Publications by Topic</a></li>\n          </ul>\n        </li>\n        <li class=\"lev1\"><a href=\"seminars.html\">Seminars</a>     \n        <li class=\"lev2 active\"><a href=\"jobs.html\">Jobs & Vacancies</a></li>\n        <li class=\"lev1\"><a href=\"contact.html\">Contact us</a></li>\n        </ul>\n       \n       \n\n		<div>\n    \n       <div class=\"page_content_center\">\n			\n            <h2 class=\"page_title\">Jobs and Vacancies</h2>\n                          	\n			<p>\n            <ul>\n            <li>Position: <strong>Research Scientists</strong></li>\n            <li>Organization: Beihang University and University of Edinburgh</li>\n            <li>Department:International Research Center on Big Data at Beihang University</li>\n            </p>  \n            \n            <p>\n            The newly established International Research Center on Big Data at\nBeihang University is recruiting two research scientists, joint\nwith the Database Group at the University of Edinburgh.</p><p>\n\nWe invite outstanding candidates with interests in topics in connection with big data, from theory to systems, to apply. While the positions are primarily open to database researchers with a promising academic record, all applicants with a strong background in computer science will be considered. Skills in data management, logic, automata, algorithms, complexity theory, as well as systems building experience, are particularly valuable.</p><p>\n\nInterested candidates are encouraged to contact<br />\nWenfei Fan: wenfei@inf.ed.ac.uk,<br />\nUniversity of Edinburgh and Beihang University, <br />\nor Shuai Ma: mashuai@act.buaa.edu.cn, <br />\nBeihang University\n\n</p><p>\nBeihang University is one of the top-ranked computer science departments in China. It has recently established the International Research Center on Big Data, and has committed to building up its strength in data management. The Database Group at the University of Edinburgh is one of the leading research groups in the world. There are several ongoing joint research projects between Beihang and Edinburgh, in connection with big data. Researchers are expected to work in the International Research Center at Beihang, in Beijing, China, but may take advantage of an agreement between Beihang and Edinburgh and spend up to six months each year in Edinburgh, UK, working with people in the Database Group at Edinburgh.\n</p><p>\n\n<ul>\n<li>Term : 3 years.\n<li>Salary Scale : USD $45,000 - $55,000 pa\n<li>Type of position : Research Scientist\n<li>Degree required : PhD\n<li>Years of experience : 0\n<li>Citizenship requirements : No restriction\n<li>Job start date : April 2013\n<li>Application Deadline : 2013-03-15\n<li>Job location : Beijing, China, and/or Edinburgh, UK\n</ul>\n</p><p>\n\nFor more information about the International Research Center at Beihang and the Database Group at Edinburgh, please visit The URL of the center page <a href=\"http://www.lfcs.inf.ed.ac.uk/research/database/Members.html\" target=\"_blank\">http://www.lfcs.inf.ed.ac.uk/research/database/Members.html</a>     \n</p>\n          \n            \n			\n	   </div>\n       \n      \n        \n        <div style=\"clear:both\"></div>\n        </div>\n     \n     \n     \n    <div class=\"footer\">\n    Copyright Reserved 2012-2013 © International Research Center on Big Data</br>\n   	Contact Info: webadmin@act.buaa.edu.cn\n    \n    </div>\n    </div> <!-- /container -->\n\n\n  </body>\n</html>\n",
+			"file": "jobs.html",
+			"file_size": 4799,
+			"file_write_time": 130375406830238483,
 			"settings":
 			{
-				"buffer_size": 4481,
+				"buffer_size": 4699,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "pub-year.html",
+			"file": "news.html",
 			"settings":
 			{
-				"buffer_size": 12635,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pub-topic-dq.html",
-			"settings":
-			{
-				"buffer_size": 5112,
+				"buffer_size": 2506,
 				"line_ending": "Windows"
 			}
 		},
@@ -375,7 +370,7 @@
 			"file": "/D/workspace_git/dengt/index.html",
 			"settings":
 			{
-				"buffer_size": 12395,
+				"buffer_size": 12686,
 				"line_ending": "Windows"
 			}
 		}
@@ -496,10 +491,12 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/index.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
+		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/dengt/index.html",
 		"/C/Windows/System32/drivers/etc/hosts",
-		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
 		"/D/skydrive/GoodReader/archive/我和妲己.txt",
 		"/D/workspace_git/buaa-rcbd/seminars/3.html",
@@ -510,14 +507,12 @@
 		"/D/workspace_git/buaa-rcbd/pub-topic.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-qbsd.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/professional.html",
 		"/D/workspace_git/buaa-rcbd/orgnization.html",
 		"/D/workspace_git/buaa-rcbd/mission.html",
 		"/D/workspace_git/buaa-rcbd/members.html",
 		"/D/workspace_git/buaa-rcbd/jobs.html",
 		"/D/workspace_git/buaa-rcbd/infrastructure.html",
-		"/D/workspace_git/buaa-rcbd/index.html",
 		"/D/workspace_git/buaa-rcbd/contact.html",
 		"/D/workspace_git/buaa-rcbd/academic.html",
 		"/D/workspace_git/buaa-rcbd/steering.html",
@@ -757,23 +752,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "jobs.html",
 					"settings":
 					{
-						"buffer_size": 4481,
+						"buffer_size": 4699,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								925,
-								925
+								16,
+								16
 							]
 						],
 						"settings":
@@ -786,25 +781,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 946.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pub-year.html",
+					"file": "news.html",
 					"settings":
 					{
-						"buffer_size": 12635,
+						"buffer_size": 2506,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5245,
-								4939
+								1958,
+								1958
 							]
 						],
 						"settings":
@@ -813,42 +808,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1936.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pub-topic-dq.html",
-					"settings":
-					{
-						"buffer_size": 5112,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2345,
-								2345
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 66.0,
+						"translation.y": 748.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -860,7 +824,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -890,7 +854,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "/D/workspace_git/yecols.cn/rebuild.html",
 					"settings":
 					{
@@ -921,11 +885,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "/D/workspace_git/dengt/index.html",
 					"settings":
 					{
-						"buffer_size": 12395,
+						"buffer_size": 12686,
 						"regions":
 						{
 						},

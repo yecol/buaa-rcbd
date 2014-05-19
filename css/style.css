@@ -183,6 +183,13 @@ a:hover {
 	font-size: 1.3em;
 }
 
+.index-more{
+	float: right;
+	position: relative;
+	top: -30px;
+	right: 10px;
+}
+
 .block_content{
 	padding: 5px 15px;
 }
