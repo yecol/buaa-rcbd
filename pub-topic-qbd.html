@@ -10,7 +10,16 @@
         <link href="css/style.css" rel="stylesheet" type="text/css"><!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <![endif]--><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51522732-1', 'buaa.edu.cn');
+  ga('send', 'pageview');
+
+</script>
     </head>
     <body>
         <div class="bd_topline navbar-fixed-top"></div>
@@ -60,44 +69,50 @@
             <div>
                 <div class="page_content_center">
                     <h2 class="page_title">
-                        <a href="publications.html">Publications</a> &gt; By Topic
+                        <a href="publications.html">Publications</a> &gt; Making Big Data Small
                     </h2>
-                
-                    <h2 class="page_title_2" id="qbd">
-                        Querying Big Data beyond MapReduce
-                    </h2>
-                    <div class="pad-2">
-                        <p>
-                            <strong>Diversified Top-k Graph Pattern Matching</strong><br>
+                    <div class="pub-remark">Big data ≠ MapReduce + machine learning.<br>
+                        Querying big data is as important as data mining.<br>
+                        MapReduce is not the only way to query
+                        big data, not even the best!
+                    </div>
+                    <ol class="pad-2">
+                        <li>
+                            <strong><a href="http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod14.pdf">Querying Big Graphs within Bounded Resources</a></strong><br>
+                            ACM SIGMOD Conference on Management of Data (SIGMOD), 2014<br>
+                            Wenfei Fan, Xin Wang, and Yinghui Wu<br>
+                        </li>
+                        <li>
+                            <strong><a href="http://www.cs.ucsb.edu/~yinghui/mat/papers/topk-vldb13.pdf">Diversified Top-k Graph Pattern Matching</a></strong><br>
                             The 40th International Conference on Very Large Data Bases (VLDB), 2014.<br>
                             Wenfei Fan, Xin Wang, and Yinghui Wu
-                        </p>
-                        <p>
-                            <strong>Answering Graph Pattern Queries Using Views</strong><br>
+                        </li>
+                        <li>
+                            <strong><a href="http://homepages.inf.ed.ac.uk/wenfei/papers/icde14.pdf">Answering Graph Pattern Queries Using Views</a></strong><br>
                             The 30th International Conference on Database Engineering (ICDE), 2014.<br>
                             Wenfei Fan, Xin Wang, and Yinghui Wu
-                        </p>
-                        <p>
-                            <strong>Strong Simulation: Capturing Topology in Graph Pattern Matching</strong><br>
-                            ACM Transactions on Database Systems (TODS), to appear.<br>
+                        </li>
+                        <li>
+                            <strong><a href="publications/tods2013-strongsimulation.pdf" target="_blank">Strong Simulation: Capturing Topology in Graph Pattern Matching</a></strong><br>
+                            ACM Transactions on Database Systems (TODS), 39(1), 2014<br>
                             Shuai Ma, Yang Cao, Wenfei Fan, Jinpeng Huai, and Tianyu Wo
-                        </p>
-                        <p>
-                            <strong>Diversified Top-k Graph Pattern Matching</strong><br>
-                            The 40th International Conference on Very Large Data Bases (VLDB), 2014<br>
+                        </li>
+                        <li>
+                            <strong><a href="publications/a18-fan.pdf" target="_blank">Incremental Graph Pattern Matching</a></strong><br>
+                            ACM Transactions on Database Systems (TODS) 38(3), 2013<br>
                             Wenfei Fan, Xin Wang, and Yinghui Wu
-                        </p>
-                        <p>
-                            <strong>Incremental Graph Pattern Matching</strong><br>
-                            ACM Transactions on Database Systems (TODS), to appear<br>
-                            Wenfei Fan, Xin Wang, and Yinghui Wu
-                        </p>
-                        <p>
-                            <strong>ExpFinder: Finding Experts by Graph Pattern Matching</strong><br>
+                        </li>
+                        <li>
+                            <strong><a href="publications/qbsd.pdf" target="_blank">Querying Big Social Data</a></strong><br>
+                            The 29th British National Conference on Databases (BNCOD) 2013 (invited)<br>
+                            Wenfei Fan
+                        </li>
+                        <li>
+                            <strong><a href="publications/expFinder.pdf" target="_blank">ExpFinder: Finding Experts by Graph Pattern Matching</a></strong><br>
                             The 29th International Conference on Database Engineering (ICDE) (demo), 2013<br>
-                            Wenfei Fan Xin Wang and Yinghui Wu
-                        </p>
-                    </div>
+                            Wenfei Fan, Xin Wang, and Yinghui Wu
+                        </li>
+                    </ol>
                    
                 </div>
                 <div style="clear:both"></div>

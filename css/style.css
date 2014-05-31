@@ -156,10 +156,18 @@ a:hover {
 .page_title_2{
 	line-height:2.0em;
 	font-size:1.1em;
-	color:#007EBB
+	color:#007EBB;
 }
 .pad-2{
 	padding-left: 60px;
+}
+.pub-remark{
+	padding: 0 40px 0 40px;
+	font-weight: bold;
+}
+.pad-2 li{
+	line-height: 30px;
+	margin-top: 30px;
 }
 /*sidebar*/
 .sidebar {
