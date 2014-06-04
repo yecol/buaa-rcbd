@@ -335,14 +335,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 6619,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -460,6 +452,9 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/css/style.css",
+		"/D/workspace_git/rcbd_0531/stylesheets/styles.css",
+		"/D/workspace_git/rcbd_0531/params.json",
 		"/D/workspace_git/buaa-rcbd/jobs.html",
 		"/D/workspace_git/buaa-rcbd/members.html",
 		"/D/workspace_git/buaa-rcbd/mission.html",
@@ -584,10 +579,7 @@
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/LIB/Smarty-3.1.14/libs/debug.tpl",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/templates/index.tpl",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/templates/portfolio.tpl"
+		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html"
 	],
 	"find":
 	{
@@ -595,7 +587,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 102.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"D:\\workspace_git\\buaa-rcbd"
@@ -734,39 +726,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "css/style.css",
-					"settings":
-					{
-						"buffer_size": 6619,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2551,
-								2551
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3177.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -798,7 +759,7 @@
 		"cols":
 		[
 			0.0,
-			0.787280838706,
+			0.683762534078,
 			1.0
 		],
 		"rows":
