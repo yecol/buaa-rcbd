@@ -335,6 +335,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pub-topic-qbd.html",
+			"settings":
+			{
+				"buffer_size": 6589,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-year.html",
+			"settings":
+			{
+				"buffer_size": 14452,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -452,6 +468,8 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/css/style.css",
 		"/D/workspace_git/rcbd_0531/stylesheets/styles.css",
 		"/D/workspace_git/rcbd_0531/params.json",
@@ -460,8 +478,6 @@
 		"/D/workspace_git/buaa-rcbd/mission.html",
 		"/D/workspace_git/buaa-rcbd/orgnization.html",
 		"/D/workspace_git/buaa-rcbd/professional.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic.html",
 		"/D/workspace_git/buaa-rcbd/infrastructure.html",
@@ -721,8 +737,71 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pub-topic-qbd.html",
+					"settings":
+					{
+						"buffer_size": 6589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3948,
+								3948
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1760.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pub-year.html",
+					"settings":
+					{
+						"buffer_size": 14452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4017,
+								4017
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1672.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -759,7 +838,7 @@
 		"cols":
 		[
 			0.0,
-			0.683762534078,
+			0.854137241338,
 			1.0
 		],
 		"rows":
