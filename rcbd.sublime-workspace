@@ -342,14 +342,6 @@
 				"buffer_size": 6589,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "pub-year.html",
-			"settings":
-			{
-				"buffer_size": 14452,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -468,8 +460,9 @@
 	},
 	"file_history":
 	[
-		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
+		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
 		"/D/workspace_git/buaa-rcbd/css/style.css",
 		"/D/workspace_git/rcbd_0531/stylesheets/styles.css",
 		"/D/workspace_git/rcbd_0531/params.json",
@@ -494,7 +487,6 @@
 		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/buaa-rcbd/scientists.html",
 		"/D/workspace_git/buaa-rcbd/publications.html",
-		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-qbsd.html",
 		"/D/workspace_git/buaa-rcbd/stylesheets/pygment_trac.css",
 		"/D/workspace_git/yecols.cn/rebuild.html",
@@ -603,7 +595,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
 			"D:\\workspace_git\\buaa-rcbd"
@@ -614,6 +606,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"to appear",
 			"<script>\n  (function(i,s,o,g,r,a,m)",
 			"<![endif]-->",
 			"Extending Inclusion Dependencies with Conditions\nExtending Inclusion Dependencies with Conditions\nextending",
@@ -752,8 +745,8 @@
 						"selection":
 						[
 							[
-								3948,
-								3948
+								4370,
+								4370
 							]
 						],
 						"settings":
@@ -766,38 +759,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1760.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pub-year.html",
-					"settings":
-					{
-						"buffer_size": 14452,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4017,
-								4017
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1672.0,
+						"translation.y": 1562.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
