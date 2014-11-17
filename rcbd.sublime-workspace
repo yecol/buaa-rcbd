@@ -339,15 +339,7 @@
 			"file": "pub-year.html",
 			"settings":
 			{
-				"buffer_size": 15698,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pub-topic-dq.html",
-			"settings":
-			{
-				"buffer_size": 6657,
+				"buffer_size": 16300,
 				"line_ending": "Windows"
 			}
 		},
@@ -355,16 +347,8 @@
 			"file": "pub-topic-dba.html",
 			"settings":
 			{
-				"buffer_size": 6349,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pub-topic-qbd.html",
-			"settings":
-			{
-				"buffer_size": 6667,
-				"line_ending": "Windows"
+				"buffer_size": 6648,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -484,6 +468,9 @@
 	},
 	"file_history":
 	[
+		"/home/yecol/repo/buaa-rcbd/pub-topic-qbd.html",
+		"/home/yecol/repo/buaa-rcbd/pub-topic-dq.html",
+		"/home/yecol/repo/buaa-rcbd/pub-topic-dba.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
@@ -608,10 +595,7 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/portfolio/hello.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/hello.php",
-		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html"
+		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -754,7 +738,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -762,15 +746,15 @@
 					"file": "pub-year.html",
 					"settings":
 					{
-						"buffer_size": 15698,
+						"buffer_size": 16300,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8954,
-								8817
+								3059,
+								3059
 							]
 						],
 						"settings":
@@ -783,56 +767,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2696.0,
+						"translation.y": 1443.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pub-topic-dq.html",
-					"settings":
-					{
-						"buffer_size": 6657,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1527,
-								1527
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 772.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "pub-topic-dba.html",
 					"settings":
 					{
-						"buffer_size": 6349,
+						"buffer_size": 6648,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5248,
-								5248
+								3618,
+								3618
 							]
 						],
 						"settings":
@@ -845,38 +798,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1844.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pub-topic-qbd.html",
-					"settings":
-					{
-						"buffer_size": 6667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3659,
-								3659
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1620.0,
+						"translation.y": 1311.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
