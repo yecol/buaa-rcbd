@@ -335,42 +335,15 @@
 			"file": "pub-year.html",
 			"settings":
 			{
-				"buffer_size": 15358,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pub-topic-dba.html",
-			"settings":
-			{
-				"buffer_size": 6281,
-				"line_ending": "Unix"
+				"buffer_size": 16300,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 6427,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/workspace_git/yecols.cn/rebuild.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"file": "/D/workspace_git/dengt/index.html",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 6648,
 				"line_ending": "Unix"
 			}
 		}
@@ -491,6 +464,7 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-year.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dba.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/publications.html",
@@ -499,6 +473,12 @@
 		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/dengt/index.html",
 		"/C/Windows/System32/drivers/etc/hosts",
+=======
+		"/home/yecol/repo/buaa-rcbd/pub-topic-qbd.html",
+		"/home/yecol/repo/buaa-rcbd/pub-topic-dq.html",
+		"/home/yecol/repo/buaa-rcbd/pub-topic-dba.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
 		"/D/skydrive/GoodReader/archive/我和妲己.txt",
@@ -613,12 +593,16 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/portfolio/hello.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/hello.php",
+<<<<<<< HEAD
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/LIB/Smarty-3.1.14/libs/debug.tpl",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/templates/index.tpl"
+=======
+		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 	],
 	"find":
 	{
@@ -752,7 +736,11 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 0,
+=======
+			"selected": 1,
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 			"sheets":
 			[
 				{
@@ -760,15 +748,24 @@
 					"file": "pub-year.html",
 					"settings":
 					{
+<<<<<<< HEAD
 						"buffer_size": 15358,
+=======
+						"buffer_size": 16300,
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								8779,
 								8779
+=======
+								3059,
+								3059
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 							]
 						],
 						"settings":
@@ -781,7 +778,11 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 2408.0,
+=======
+						"translation.y": 1443.0,
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -789,6 +790,7 @@
 				{
 					"buffer": 1,
 					"file": "pub-topic-dba.html",
+<<<<<<< HEAD
 					"settings":
 					{
 						"buffer_size": 6281,
@@ -890,14 +892,24 @@
 					"settings":
 					{
 						"buffer_size": 0,
+=======
+					"settings":
+					{
+						"buffer_size": 6648,
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								0,
 								0
+=======
+								3618,
+								3618
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 							]
 						],
 						"settings":
@@ -910,7 +922,11 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 0.0,
+=======
+						"translation.y": 1311.0,
+>>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"zoom_level": 1.0
 					},
 					"type": "text"
