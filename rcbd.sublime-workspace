@@ -4,20 +4,12 @@
 		"selected_items":
 		[
 			[
-				"padd",
-				"padding"
-			],
-			[
 				"padding",
-				"padding-right"
-			],
-			[
-				"pad",
-				"pad-2"
+				"padding-left"
 			],
 			[
 				"mar",
-				"margin-top"
+				"margin-bottom"
 			],
 			[
 				"font",
@@ -50,6 +42,10 @@
 			[
 				"titl",
 				"title"
+			],
+			[
+				"padd",
+				"padding-right"
 			],
 			[
 				"col",
@@ -339,32 +335,43 @@
 			"file": "pub-year.html",
 			"settings":
 			{
-				"buffer_size": 15096,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pub-topic-dq.html",
-			"settings":
-			{
-				"buffer_size": 6657,
-				"line_ending": "Windows"
+				"buffer_size": 15358,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "pub-topic-dba.html",
 			"settings":
 			{
-				"buffer_size": 5974,
+				"buffer_size": 6281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 6427,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "pub-topic-qbd.html",
+			"file": "/D/workspace_git/yecols.cn/rebuild.html",
 			"settings":
 			{
-				"buffer_size": 6667,
-				"line_ending": "Windows"
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/D/workspace_git/dengt/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -484,40 +491,37 @@
 	},
 	"file_history":
 	[
-		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-year.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dba.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/publications.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/index.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dq.html",
+		"/D/workspace_git/buaa-rcbd/seminars.html",
+		"/D/workspace_git/dengt/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
-		"/D/workspace_git/buaa-rcbd/css/style.css",
-		"/D/workspace_git/rcbd_0531/stylesheets/styles.css",
-		"/D/workspace_git/rcbd_0531/params.json",
-		"/D/workspace_git/buaa-rcbd/jobs.html",
-		"/D/workspace_git/buaa-rcbd/members.html",
-		"/D/workspace_git/buaa-rcbd/mission.html",
-		"/D/workspace_git/buaa-rcbd/orgnization.html",
-		"/D/workspace_git/buaa-rcbd/professional.html",
+		"/D/skydrive/GoodReader/archive/我和妲己.txt",
+		"/D/workspace_git/buaa-rcbd/seminars/3.html",
+		"/D/workspace_git/buaa-rcbd/seminars/2.html",
+		"/D/workspace_git/buaa-rcbd/seminars/1.html",
+		"/D/workspace_git/buaa-rcbd/scientists.html",
+		"/D/workspace_git/buaa-rcbd/publications.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-qbsd.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
+		"/D/workspace_git/buaa-rcbd/pub-topic-dq.html",
+		"/D/workspace_git/buaa-rcbd/professional.html",
+		"/D/workspace_git/buaa-rcbd/orgnization.html",
+		"/D/workspace_git/buaa-rcbd/mission.html",
+		"/D/workspace_git/buaa-rcbd/members.html",
+		"/D/workspace_git/buaa-rcbd/jobs.html",
 		"/D/workspace_git/buaa-rcbd/infrastructure.html",
 		"/D/workspace_git/buaa-rcbd/index.html",
 		"/D/workspace_git/buaa-rcbd/contact.html",
 		"/D/workspace_git/buaa-rcbd/academic.html",
 		"/D/workspace_git/buaa-rcbd/steering.html",
-		"/D/workspace_git/buaa-rcbd/seminars/6.html",
-		"/D/workspace_git/buaa-rcbd/seminars/5.html",
 		"/D/workspace_git/buaa-rcbd/seminars/4.html",
-		"/D/workspace_git/buaa-rcbd/seminars/3.html",
-		"/D/workspace_git/buaa-rcbd/seminars/2.html",
-		"/D/workspace_git/buaa-rcbd/seminars/1.html",
-		"/D/workspace_git/buaa-rcbd/seminars.html",
-		"/D/workspace_git/buaa-rcbd/scientists.html",
-		"/D/workspace_git/buaa-rcbd/publications.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-qbsd.html",
-		"/D/workspace_git/buaa-rcbd/stylesheets/pygment_trac.css",
-		"/D/workspace_git/yecols.cn/rebuild.html",
-		"/D/workspace_git/dengt/index.html",
-		"/D/workspace_git/buaa-rcbd/news.html",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/D/skydrive/GoodReader/archive/我和妲己.txt",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-year.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/publications.html",
 		"/C/Users/LEIXUJUN/Desktop/yecol/buaa-rcbd/pub-topic.html",
@@ -578,6 +582,7 @@
 		"/D/workspace_git/yecols.cn/photos/travel-taiwan.php",
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Less2Css/README.md",
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/LESS/README.md",
+		"/D/workspace_git/yecols.cn/rebuild.html",
 		"/D/workspace_git/yecols.cn/index.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/templates/albums.tpl",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/assets/css/reset.css",
@@ -611,7 +616,9 @@
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html"
+		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html",
+		"/D/Servers/xampp/xampp/htdocs/lhycn/LIB/Smarty-3.1.14/libs/debug.tpl",
+		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/templates/index.tpl"
 	],
 	"find":
 	{
@@ -630,13 +637,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"to appear",
-			"<script>\n  (function(i,s,o,g,r,a,m)",
-			"<![endif]-->",
-			"Extending Inclusion Dependencies with Conditions\nExtending Inclusion Dependencies with Conditions\nextending",
-			"p>",
-			"007EBB",
-			"p>",
 			"github",
 			"Pulications",
 			"/Querying Big Social Data",
@@ -731,8 +731,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"<![endif]--><script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-51522732-1', 'buaa.edu.cn');\n  ga('send', 'pageview');\n\n</script>",
-			"li>",
 			"Publications",
 			"",
 			"<strong>",
@@ -754,7 +752,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -762,15 +760,15 @@
 					"file": "pub-year.html",
 					"settings":
 					{
-						"buffer_size": 15096,
+						"buffer_size": 15358,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3936,
-								3810
+								8779,
+								8779
 							]
 						],
 						"settings":
@@ -783,56 +781,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1716.0,
+						"translation.y": 2408.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pub-topic-dq.html",
-					"settings":
-					{
-						"buffer_size": 6657,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3132,
-								3132
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1452.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "pub-topic-dba.html",
 					"settings":
 					{
-						"buffer_size": 5974,
+						"buffer_size": 6281,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3924,
-								3924
+								5936,
+								5718
 							]
 						],
 						"settings":
@@ -845,38 +812,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1584.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pub-topic-qbd.html",
-					"settings":
-					{
-						"buffer_size": 6667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3843,
-								3843
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1254.0,
+						"translation.y": 1539.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -884,8 +820,101 @@
 			]
 		},
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 6427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1364
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/workspace_git/yecols.cn/rebuild.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/workspace_git/dengt/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -917,7 +946,7 @@
 		"cols":
 		[
 			0.0,
-			0.854137241338,
+			0.86130462318,
 			1.0
 		],
 		"rows":
@@ -960,6 +989,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 212.0,
+	"side_bar_width": 203.0,
 	"status_bar_visible": true
 }
