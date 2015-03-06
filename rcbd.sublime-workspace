@@ -332,18 +332,37 @@
 	"buffers":
 	[
 		{
-			"file": "pub-year.html",
+			"file": "seminars.html",
 			"settings":
 			{
-				"buffer_size": 16300,
-				"line_ending": "Windows"
+				"buffer_size": 3262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 6648,
+				"buffer_size": 6619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/D/workspace_git/dengt/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -464,21 +483,17 @@
 	},
 	"file_history":
 	[
-<<<<<<< HEAD
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-year.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dba.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/seminars/8.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/seminars/7.html",
+		"/D/workspace_git/yecols.cn/rebuild.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/publications.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/index.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/dengt/index.html",
 		"/C/Windows/System32/drivers/etc/hosts",
-=======
-		"/home/yecol/repo/buaa-rcbd/pub-topic-qbd.html",
-		"/home/yecol/repo/buaa-rcbd/pub-topic-dq.html",
-		"/home/yecol/repo/buaa-rcbd/pub-topic-dba.html",
-		"/D/workspace_git/buaa-rcbd/pub-topic-qbd.html",
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 		"/D/workspace_git/buaa-rcbd/pub-year.html",
 		"/D/workspace_git/buaa-rcbd/pub-topic-dba.html",
 		"/D/skydrive/GoodReader/archive/我和妲己.txt",
@@ -562,7 +577,6 @@
 		"/D/workspace_git/yecols.cn/photos/travel-taiwan.php",
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Less2Css/README.md",
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/LESS/README.md",
-		"/D/workspace_git/yecols.cn/rebuild.html",
 		"/D/workspace_git/yecols.cn/index.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/templates/albums.tpl",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/assets/css/reset.css",
@@ -593,16 +607,10 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/portfolio/hello.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.html",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/hello.php",
-<<<<<<< HEAD
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/LIB/Smarty-3.1.14/libs/debug.tpl",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/html/inc/templates/index.tpl"
-=======
-		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
+		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html"
 	],
 	"find":
 	{
@@ -736,36 +744,23 @@
 	"groups":
 	[
 		{
-<<<<<<< HEAD
-			"selected": 0,
-=======
 			"selected": 1,
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pub-year.html",
+					"file": "seminars.html",
 					"settings":
 					{
-<<<<<<< HEAD
-						"buffer_size": 15358,
-=======
-						"buffer_size": 16300,
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
+						"buffer_size": 3262,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< HEAD
-								8779,
-								8779
-=======
-								3059,
-								3059
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
+								2182,
+								2205
 							]
 						],
 						"settings":
@@ -774,34 +769,29 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-<<<<<<< HEAD
-						"translation.y": 2408.0,
-=======
-						"translation.y": 1443.0,
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
+						"translation.y": 854.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pub-topic-dba.html",
-<<<<<<< HEAD
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 6281,
+						"buffer_size": 5005,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5936,
-								5718
+								4657,
+								4657
 							]
 						],
 						"settings":
@@ -810,11 +800,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1539.0,
+						"translation.y": 853.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -822,7 +812,7 @@
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -830,15 +820,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 6427,
+						"buffer_size": 6619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1362,
-								1364
+								0,
+								0
 							]
 						],
 						"settings":
@@ -850,66 +840,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1479.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/D/workspace_git/yecols.cn/rebuild.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "/D/workspace_git/dengt/index.html",
 					"settings":
 					{
 						"buffer_size": 0,
-=======
-					"settings":
-					{
-						"buffer_size": 6648,
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< HEAD
 								0,
 								0
-=======
-								3618,
-								3618
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 							]
 						],
 						"settings":
@@ -922,11 +871,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-<<<<<<< HEAD
 						"translation.y": 0.0,
-=======
-						"translation.y": 1311.0,
->>>>>>> 40ee4bab4689af704ca3e376ef023ee8e3a1313a
 						"zoom_level": 1.0
 					},
 					"type": "text"
