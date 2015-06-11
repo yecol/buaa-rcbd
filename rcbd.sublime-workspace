@@ -332,19 +332,27 @@
 	"buffers":
 	[
 		{
-			"file": "seminars.html",
+			"file": "pub-year.html",
 			"settings":
 			{
-				"buffer_size": 3262,
+				"buffer_size": 17239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-topic-dba.html",
+			"settings":
+			{
+				"buffer_size": 6971,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "pub-topic-qbd.html",
 			"settings":
 			{
-				"buffer_size": 5005,
-				"line_ending": "Unix"
+				"buffer_size": 7313,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -483,13 +491,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/seminars.html",
+		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/index.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-year.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dba.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/seminars/8.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/seminars/7.html",
 		"/D/workspace_git/yecols.cn/rebuild.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/publications.html",
-		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/index.html",
 		"/Users/Yecol/Workspace/git-repo/buaa-rcbd/pub-topic-dq.html",
 		"/D/workspace_git/buaa-rcbd/seminars.html",
 		"/D/workspace_git/dengt/index.html",
@@ -609,8 +618,7 @@
 		"/D/Servers/xampp/xampp/htdocs/lhycn/hello.php",
 		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/Servers/xampp/xampp/htdocs/lhycn/index.php",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html",
-		"/D/Servers/xampp/xampp/htdocs/lhycn/rebuild.html"
+		"/D/Servers/xampp/xampp/htdocs/lhycn/inc/yecol.smarty.php.back.html"
 	],
 	"find":
 	{
@@ -744,23 +752,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "seminars.html",
+					"file": "pub-year.html",
 					"settings":
 					{
-						"buffer_size": 3262,
+						"buffer_size": 17239,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2182,
-								2205
+								4096,
+								4096
 							]
 						],
 						"settings":
@@ -769,29 +777,29 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 854.0,
+						"translation.y": 1001.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "pub-topic-dba.html",
 					"settings":
 					{
-						"buffer_size": 5005,
+						"buffer_size": 6971,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4657,
-								4657
+								3642,
+								3344
 							]
 						],
 						"settings":
@@ -800,11 +808,42 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 853.0,
+						"translation.y": 703.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pub-topic-qbd.html",
+					"settings":
+					{
+						"buffer_size": 7313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3598,
+								3598
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 827.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -816,7 +855,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -846,7 +885,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "/D/workspace_git/dengt/index.html",
 					"settings":
 					{
