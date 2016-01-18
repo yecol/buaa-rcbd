@@ -335,7 +335,7 @@
 			"file": "pub-year.html",
 			"settings":
 			{
-				"buffer_size": 17239,
+				"buffer_size": 18693,
 				"line_ending": "Windows"
 			}
 		},
@@ -343,7 +343,7 @@
 			"file": "pub-topic-dba.html",
 			"settings":
 			{
-				"buffer_size": 6971,
+				"buffer_size": 8138,
 				"line_ending": "Unix"
 			}
 		},
@@ -353,6 +353,14 @@
 			{
 				"buffer_size": 7313,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pub-topic-dq.html",
+			"settings":
+			{
+				"buffer_size": 6657,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -752,7 +760,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -760,15 +768,15 @@
 					"file": "pub-year.html",
 					"settings":
 					{
-						"buffer_size": 17239,
+						"buffer_size": 18693,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4096,
-								4096
+								5438,
+								5135
 							]
 						],
 						"settings":
@@ -781,7 +789,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1001.0,
+						"translation.y": 1328.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -791,15 +799,15 @@
 					"file": "pub-topic-dba.html",
 					"settings":
 					{
-						"buffer_size": 6971,
+						"buffer_size": 8138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3642,
-								3344
+								5107,
+								5107
 							]
 						],
 						"settings":
@@ -812,7 +820,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 703.0,
+						"translation.y": 1250.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -843,7 +851,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 827.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pub-topic-dq.html",
+					"settings":
+					{
+						"buffer_size": 6657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -855,7 +894,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -885,7 +924,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "/D/workspace_git/dengt/index.html",
 					"settings":
 					{
