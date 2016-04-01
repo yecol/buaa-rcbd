@@ -25,6 +25,13 @@ a:focus {
 a:hover, a:active {
 	outline: 0;
 }
+.text-center{
+	text-align: center;
+}
+.cn-para{
+	text-indent: 2em;
+    line-height: 160%;
+}
 img {
 	width: auto\9;
 	height: auto;
